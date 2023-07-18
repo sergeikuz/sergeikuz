@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/NadiDU/NadiDU/blob/main/YBU4.gif"/>
+  <img src="https://gfycat.com/ifr/ClutteredLawfulArcticfox"/>
 </div>
 <div id="badges" align="center">
 
