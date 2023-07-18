@@ -54,7 +54,7 @@ learning ability.
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
   <a href="https://github.com/sergeikuz/JavaScript">
-    <img src="https://github.com/sergeikuz/sergeikuz/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/></a>
+    <img src="https://github.com/sergeikuz/sergeikuz/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   </a>
   
     <a href="https://github.com/sergeikuz/SQL">
