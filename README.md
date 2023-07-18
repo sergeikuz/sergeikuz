@@ -50,21 +50,43 @@ learning ability.
 
 
 <div>
-   <a href="https://github.com/sergeikuz/git.png">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
+<a href="https://github.com/NadiDU/Terminal-Linux">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
-  <a href="https://github.com/sergeikuz/JavaScript">
-    <img src="https://github.com/sergeikuz/sergeikuz/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <a href="https://github.com/NadiDU/Charles">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/Charles_proxy.png?raw=true" title="Charles_proxy" alt="Charles_proxy" width="50" height="50"/></a> 
+  </a>
+  <a href="https://github.com/NadiDU/Postman">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/Postman.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
+  <a href="https://github.com/NadiDU/Postman">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/swagger.png" width="50" height="50"/></a>
+  </a>
+  <a href="https://github.com/NadiDU/JavaScript">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/NadiDU/DevTools">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/chrome_dev_browser.png?raw=true" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
+  </a>
+    <a href="https://github.com/NadiDU/SQL">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/sql.png?raw=true" title="SQL" alt="SQL" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/NadiDU/Git">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/git_branch.png?raw=true title="Git_branch" alt="Git_branch" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/NadiDU/Mobile-testing">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/android_studio.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
+  </a>
+   </a>
+  <a href="https://github.com/NadiDU/JavaScript">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
+  </a>
+  <a href=" ">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/JIRA.png?raw=true" alt="Android_studio" width="50" height="50"/>
   </a>
   
-    <a href="https://github.com/sergeikuz/SQL">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/sql.png?raw=true" title="SQL" alt="SQL" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/sergeikuz/Git">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git_branch.png?raw=true title="Git_branch" alt="Git_branch" width="50" height="50"/>
-   </a>
-  <a href="https://github.com/sergeikuz/javascript.png">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
-  </a>
+   <a href=" ">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/json.png?raw=true" width="50" height="50"/>
+  </a>   
   
 </div>
