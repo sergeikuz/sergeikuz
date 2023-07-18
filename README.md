@@ -62,7 +62,7 @@ learning ability.
   <a href="https://github.com/sergeikuz/Git">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git_branch.png?raw=true title="Git_branch" alt="Git_branch" width="50" height="50"/>
    </a>
-  <a href="https://github.com/sergeikuz/JavaScript">
+  <a href="https://github.com/sergeikuz/javascript">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
   </a>
   
