@@ -37,11 +37,12 @@ learning ability.
 
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
+- Responsibility
+- Self-Motivation
 - Communication
 - Teamwork
-- Critical thinking
-- Responsibility and attention to
-detail
+- Problem-Solving
+- Positivit
 ## 
 
 :wrench: Technologies & Tools:
