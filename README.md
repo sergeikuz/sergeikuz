@@ -65,8 +65,5 @@ learning ability.
   <a href="https://github.com/sergeikuz/JavaScript">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
   </a>
- 
   
-     
-  <h5>These icons are clickable.</h5>
 </div>
