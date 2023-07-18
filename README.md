@@ -3,7 +3,6 @@
 </div>
 <div id="badges" align="center">
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/ClutteredLawfulArcticfox' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/clutteredlawfularcticfox-sysadmin-unity3d">via Gfycat</a></p>
   
   <a href="https://www.linkedin.com/in/nadezhdadurina/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
