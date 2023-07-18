@@ -1,21 +1,5 @@
-<div id="header" align="center">
-  <img src="https://github.com/NadiDU/NadiDU/blob/main/YBU4.gif"/>
-</div>
-<div id="badges" align="center">
-  
-  <a href="https://www.linkedin.com/in/nadezhdadurina/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://t.me/NadyaDurina">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  
-  
-  <a href="https://drive.google.com/file/d/1p-CeBG_KDk2pJDMgCuursvF21aJvNIAj/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV.ru-blue?style=for-the-badge"/>
-  </a>
-  
-  <a href="https://drive.google.com/file/d/1843NJtTi3f1Gef9Cj2DjejeddudcfAM_/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV.eng-blue?style=for-the-badge"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
