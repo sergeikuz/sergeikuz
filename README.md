@@ -51,16 +51,16 @@ learning ability.
 
 <div>
    <a href="https://github.com/NadiDU/Terminal-Linux">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
   <a href="https://github.com/NadiDU/JavaScript">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+    <img src="https://github.com/sergeikuz/sergeikuz/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/>
   </a>
     <a href="https://github.com/NadiDU/SQL">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/sql.png?raw=true" title="SQL" alt="SQL" width="50" height="50"/>
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/sql.png?raw=true" title="SQL" alt="SQL" width="50" height="50"/>
   </a>
   <a href="https://github.com/NadiDU/Git">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/git_branch.png?raw=true title="Git_branch" alt="Git_branch" width="50" height="50"/>
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git_branch.png?raw=true title="Git_branch" alt="Git_branch" width="50" height="50"/>
    </a>
   <a href="https://github.com/NadiDU/JavaScript">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
