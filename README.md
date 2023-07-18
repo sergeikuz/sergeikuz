@@ -42,7 +42,7 @@ learning ability.
 - Communication
 - Teamwork
 - Problem-Solving
-- Positivit
+- Positivity
 ## 
 
 :wrench: Technologies & Tools:
