@@ -81,6 +81,9 @@ learning ability.
   <a href="https://github.com/NadiDU/JavaScript">
     <img src="https://github.com/NadiDU/NadiDU/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
   </a>
+  <a href="https://github.com/sergeikuz/sql">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/sql.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
 
   
    <a href=" ">
