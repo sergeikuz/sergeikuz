@@ -57,5 +57,12 @@ learning ability.
  <a href="https://github.com/sergeikuz/git">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
+  <a href="https://github.com/sergeikuz/javascript">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/javascript.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
+
+  <a href="https://github.com/sergeikuz/web_services">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/web_services.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
   
 </div>
