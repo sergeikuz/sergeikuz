@@ -28,12 +28,11 @@
 
 <div id="badges" align="center">
 :man_technologist: About Me:
-Motivated, stress-resistant person with
-experience in teamwork and experience in
-problem solving under time pressure. I believe
-that these qualities help me in my job as a QA
-Engineer.
-I have experience in commercial projects in testing mobile and web applications.
+System Engineer with more than 2 years of experience in IT industry.
+Proficient and experienced in support & implementation of different
+Server Platform solutions based on Windows Server and Linux.
+Experience supporting environments. Great self-development and
+learning ability.
 </div>
 
 
