@@ -50,7 +50,7 @@ learning ability.
 
 
 <div>
-   <a href="https://github.com/NadiDU/Terminal-Linux">
+   <a href="https://github.com/sergeikuz/git.png">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
   <a href="https://github.com/NadiDU/JavaScript">
