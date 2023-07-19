@@ -13,7 +13,7 @@
   </a>
   
   
-  <a href="https://drive.google.com/file/d/1PBV4NfBbenBhnLlZR_t6J7Nh9O_pAPUU/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1OSnNci-Vj1iH_94au7ZCYI9ITeguECpf/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV.ru-blue?style=for-the-badge"/>
   </a>
   
