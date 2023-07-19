@@ -82,5 +82,11 @@ learning ability.
   <a href="https://github.com/sergeikuz/windows">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/windows.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
+   <a href="https://github.com/sergeikuz/css">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/css.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
+   <a href="https://github.com/sergeikuz/powershell">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/powershell.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
   
 </div>
