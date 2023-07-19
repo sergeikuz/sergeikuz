@@ -76,9 +76,6 @@ learning ability.
   <a href="https://github.com/sergeikuz/linux">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/linux.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
-  <a href="https://github.com/sergeikuz/powershell">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/powershell.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
   <a href="https://github.com/sergeikuz/pyton">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/pyton.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
