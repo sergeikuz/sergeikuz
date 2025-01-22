@@ -102,8 +102,8 @@ Technical skills 🚀:
   </a>
 </div>
 
-Connect with me:
+## Connect with me:
   <a href="https://t.me/Sergei_kuznetco">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/telegram_logo_icon_168691.png?raw=true" alt="Postman" width="50" height="50"/></a>
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/telegram_logo_icon_168691.png?raw=true" alt="Postman" width="75" height="75"/></a>
   </a>
   
