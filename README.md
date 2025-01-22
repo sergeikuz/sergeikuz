@@ -73,7 +73,7 @@ Technical skills 🚀:
   <a href="https://www.microsoft.com">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/windows.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
-  <a href="https://github.com/sergeikuz/sql">
+  <a href="https://www.postgresql.org">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/sql.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
   
@@ -87,7 +87,7 @@ Technical skills 🚀:
   <a href="https://github.com/sergeikuz/bash">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/bash.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
-  <a href="https://github.com/sergeikuz/html">
+  <a href="https://en.wikipedia.org/wiki/HTML5">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/html.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
 </div>
