@@ -64,6 +64,9 @@ Technical skills 🚀:
 
 
 <div>
+  <a href="https://www.python.org">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/pyton.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
   <a href="https://github.com/sergeikuz/sql">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/sql.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
@@ -89,9 +92,6 @@ Technical skills 🚀:
   </a>
   <a href="https://github.com/sergeikuz/linux">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/linux.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
-  <a href="https://github.com/sergeikuz/pyton">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/pyton.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
   <a href="https://github.com/sergeikuz/windows">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/windows.png?raw=true" alt="Postman" width="50" height="50"/></a>
