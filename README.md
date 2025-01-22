@@ -37,13 +37,15 @@ learning ability.
 </div>
 
 
-## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/> Soft skills:
-- Responsibility
-- Self-Motivation
-- Communication
-- Teamwork
-- Problem-Solving
-- Positivity
+## <img src = "https://cdn-icons-png.flaticon.com/512/6171/6171939.png" width="30" height="30"/>Nowdaws, I'm learning Python👋:
+
+•🤝 Team Player: I thrive in collaborative environments and enjoy sharing knowledge with my colleagues.
+
+•🔍 Attention to Detail: I take pride in producing high-quality work and catching the little things that matter.
+
+•🧠 Adaptability: I can quickly adjust to new challenges and changing priorities, ensuring project success.
+
+•📈 Continuous Learner: I’m always seeking to expand my skill set and stay updated with industry trends.
 ## 
 
 :wrench: Technologies & Tools:
