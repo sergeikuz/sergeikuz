@@ -87,6 +87,9 @@ Technical skills 🚀:
   <a href="https://github.com/sergeikuz/bash">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/bash.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/css3-01_icon-icons.com_50918.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
   <a href="https://en.wikipedia.org/wiki/HTML5">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/html.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
