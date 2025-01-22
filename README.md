@@ -48,6 +48,18 @@ learning ability.
 •📈 Continuous Learner: I’m always seeking to expand my skill set and stay updated with industry trends.
 ## 
 
+Technical skills 🚀:
+
+• Languages: Python, SQL
+
+• Frameworks and libraries: Flask, Pytest, BeautifulSoup
+
+• Frontend: HTML/CSS basic, Bootstrap
+
+• Working with databases: PostgreSQL
+
+• Tools for teamwork: Git
+
 :wrench: Technologies & Tools:
 
 
