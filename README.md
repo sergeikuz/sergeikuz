@@ -101,3 +101,10 @@ Technical skills 🚀:
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/html.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
 </div>
+
+Connect with me:
+https://t.me/Sergei_kuznetco
+</a>
+  <a href="[https://github.com/sergeikuz/web_services](https://t.me/Sergei_kuznetco)">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/telegram_logo_icon_168691.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
