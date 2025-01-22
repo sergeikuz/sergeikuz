@@ -73,13 +73,13 @@ Technical skills 🚀:
   <a href="https://www.microsoft.com">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/windows.png?raw=true" alt="Postman" width="50" height="50"/></a>
   ostman" width="50" height="50"/></a>
-  
+  </a>
   <a href="https://github.com/sergeikuz/sql">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/sql.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
   
  <a href="https://github.com">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" alt="Postman" width="50" height="50"/></a>
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git_original_wordmark_logo_icon_146510.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
 
   <a href="https://github.com/sergeikuz/web_services">
