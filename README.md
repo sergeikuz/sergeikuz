@@ -67,15 +67,19 @@ Technical skills 🚀:
   <a href="https://www.python.org">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/pyton.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
+  <a href="https://www.linux.org">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/linux.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
+  <a href="https://www.microsoft.com">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/windows.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  ostman" width="50" height="50"/></a>
+  
   <a href="https://github.com/sergeikuz/sql">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/sql.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
   
- <a href="https://github.com/sergeikuz/git">
+ <a href="https://github.com">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
-  <a href="https://github.com/sergeikuz/javascript">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/javascript.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
 
   <a href="https://github.com/sergeikuz/web_services">
@@ -84,23 +88,7 @@ Technical skills 🚀:
   <a href="https://github.com/sergeikuz/bash">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/bash.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
-  <a href="https://github.com/sergeikuz/ansible">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/ansible.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
   <a href="https://github.com/sergeikuz/html">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/html.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
-  <a href="https://github.com/sergeikuz/linux">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/linux.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
-  <a href="https://github.com/sergeikuz/windows">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/windows.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
-   <a href="https://github.com/sergeikuz/css">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/css.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
-   <a href="https://github.com/sergeikuz/powershell">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/powershell.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
-  
 </div>
