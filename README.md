@@ -86,7 +86,7 @@ Technical skills 🚀:
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
 <a href="https://getbootstrap.com">
-    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/bootsrap_icon_245044.png?raw=true" alt="Postman" width="50" height="50"/></a>
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/bootstrap_plain_wordmark_logo_icon_146620.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
   <a href="https://github.com/sergeikuz/web_services">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/web_services.png?raw=true" alt="Postman" width="50" height="50"/></a>
