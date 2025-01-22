@@ -76,11 +76,18 @@ Technical skills 🚀:
   <a href="https://www.postgresql.org">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/sql.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
-  
+  <a href="https://www.postgresql.org">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/postgresql_original_wordmark_logo_icon_146392.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/pocoo_flask_src_logo_icon_168043.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
  <a href="https://github.com">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/git.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
-
+<a href="https://getbootstrap.com">
+    <img src="https://github.com/sergeikuz/sergeikuz/blob/main/bootsrap_icon_245044.png?raw=true" alt="Postman" width="50" height="50"/></a>
+  </a>
   <a href="https://github.com/sergeikuz/web_services">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/web_services.png?raw=true" alt="Postman" width="50" height="50"/></a>
   </a>
