@@ -103,7 +103,8 @@ Technical skills 🚀:
 </div>
 
 ## My pet project:
-• <a href="https://github.com/sergeikuz/python-project-49">Brain Games: the collection of 5 math mini-games </a>
+• <a href="https://github.com/sergeikuz/python-project-49">Brain Games: </a>
+the collection of 5 math mini-games
 
 • <a href="https://github.com/sergeikuz/python-project-50">Calculus of differences: the computer of the differences is a program that determines the difference between the two data structures. </a>
 
