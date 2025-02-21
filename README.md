@@ -106,9 +106,11 @@ Technical skills 🚀:
 • <a href="https://github.com/sergeikuz/python-project-49">Brain Games: </a>
 the collection of 5 math mini-games
 
-• <a href="https://github.com/sergeikuz/python-project-50">Calculus of differences: the computer of the differences is a program that determines the difference between the two data structures. </a>
+• <a href="https://github.com/sergeikuz/python-project-50">Calculus of differences: </a>
+the computer of the differences is a program that determines the difference between the two data structures.
 
-• <a href="https://github.com/sergeikuz/python-project-83">Page analyzer: is an online tool that assesses the compatibility of web pages with SEO practices, much like the functionality offered by PageSpeed Insights. </a>
+• <a href="https://github.com/sergeikuz/python-project-83">Page analyzer: </a>
+is an online tool that assesses the compatibility of web pages with SEO practices, much like the functionality offered by PageSpeed Insights.
 ## 
 
 ## Connect with me:
