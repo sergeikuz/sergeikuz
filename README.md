@@ -102,6 +102,10 @@ Technical skills 🚀:
   </a>
 </div>
 
+## My pet project:
+• <a href="[https://t.me/Sergei_kuznetco](https://github.com/sergeikuz/python-project-49)">Brain Games: the collection of 5 math mini-games
+
+
 ## Connect with me:
   <a href="https://t.me/Sergei_kuznetco">
     <img src="https://github.com/sergeikuz/sergeikuz/blob/main/telegram_logo_icon_168691.png?raw=true" alt="Postman" width="100" height="75"/></a>
