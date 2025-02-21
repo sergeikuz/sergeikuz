@@ -103,7 +103,7 @@ Technical skills 🚀:
 </div>
 
 ## My pet project:
-• <a href="[https://t.me/Sergei_kuznetco](https://github.com/sergeikuz/python-project-49)">Brain Games: the collection of 5 math mini-games </a>
+• <a href="https://github.com/sergeikuz/python-project-49)">Brain Games: the collection of 5 math mini-games </a>
 
 
 ## Connect with me:
