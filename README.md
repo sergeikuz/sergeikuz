@@ -112,7 +112,7 @@ the computer of the differences is a program that determines the difference betw
 • <a href="https://github.com/sergeikuz/python-project-83">Page analyzer: </a>
 is an online tool that assesses the compatibility of web pages with SEO practices, much like the functionality offered by PageSpeed Insights.
 
-• <a href="https://github.com/sergeikuz/python-project-52">Page analyzer: </a>
+• <a href="https://github.com/sergeikuz/python-project-52">Task manager: </a>
 A Django-based task management system that allows users to create, track, and manage tasks with statuses and labels.
 ## 
 
